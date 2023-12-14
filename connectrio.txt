@@ -1,0 +1,1 @@
+Scaffold-DbContext 'server=.; database=ToDoFianl3;user id =ayat;password=1234;Trusted_Connection=true;Encrypt=false' Microsoft.EntityFrameworkCore.SqlServer -OutputDir project
